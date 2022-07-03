@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form{
+    margin:8% auto;
+    background: gainsboro;
+    width: 40%;
+    text-align: start;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    display: block;
+   
+}
+.input-group{
+    padding: 20px;
+    
+}
+input{
+    font-size: 20px;
+    border: 2px solid black;
+      
+
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+}
+button{
+    margin-left: 40%;
+    padding: 10px;
+    width: 100px;
+    margin-bottom: 30px;
+}
